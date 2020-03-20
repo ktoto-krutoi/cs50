@@ -1,0 +1,6 @@
+#include <studio.h>
+
+int main(viod)
+{
+	printf("hello, world\n");
+}
